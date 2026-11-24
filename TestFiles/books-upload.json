@@ -1,0 +1,62 @@
+[
+  {
+    "BookName": "The Hobbit",
+    "Price": 19.99,
+    "Category": "Fantasy",
+    "Author": "J.R.R. Tolkien"
+  },
+  {
+    "BookName": "Dune",
+    "Price": 24.99,
+    "Category": "Science Fiction",
+    "Author": "Frank Herbert"
+  },
+  {
+    "BookName": "1984",
+    "Price": 14.99,
+    "Category": "Dystopian",
+    "Author": "George Orwell"
+  },
+  {
+    "BookName": "The Martian",
+    "Price": 18.99,
+    "Category": "Science Fiction",
+    "Author": "Andy Weir"
+  },
+  {
+    "BookName": "Atomic Habits",
+    "Price": 21.50,
+    "Category": "Self-Help",
+    "Author": "James Clear"
+  },
+  {
+    "BookName": "The Clean Coder",
+    "Price": 37.99,
+    "Category": "Computers",
+    "Author": "Robert C. Martin"
+  },
+  {
+    "BookName": "Introduction to Algorithms",
+    "Price": 89.95,
+    "Category": "Computers",
+    "Author": "Thomas H. Cormen"
+  },
+  {
+    "BookName": "The Lord of the Rings",
+    "Price": 34.99,
+    "Category": "Fantasy",
+    "Author": "J.R.R. Tolkien"
+  },
+  {
+    "BookName": "Project Hail Mary",
+    "Price": 22.99,
+    "Category": "Science Fiction",
+    "Author": "Andy Weir"
+  },
+  {
+    "BookName": "The Psychology of Money",
+    "Price": 19.95,
+    "Category": "Finance",
+    "Author": "Morgan Housel"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "BookName": "",
+    "Price": 19.99,
+    "Category": "Fantasy",
+    "Author": "J.R.R. Tolkien"
+  },
+  {
+    "BookName": "Bad Book",
+    "Price": -5.00,
+    "Category": "Computers",
+    "Author": "Someone"
+  },
+  {
+    "BookName": "Valid Book",
+    "Price": 10.99,
+    "Category": "Education",
+    "Author": "Teacher"
+  }
+]
